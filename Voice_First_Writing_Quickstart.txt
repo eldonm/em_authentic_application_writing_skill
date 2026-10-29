@@ -1,0 +1,131 @@
+BEYOND THE PROMPT
+Navigating AI Authenticity in College Admissions
+Student take-home guide | Eldon Marks | EducationUSA session, October 30, 2026
+Prepared October 29, 2026
+For Grades 11–12 students exploring U.S. undergraduate study, with adaptations for other applicants.
+
+YOUR OWN EXPERIENCE, THINKING, AND WORDS
+
+Write the first draft yourself. AI is optional, and only for actions the rules for your exact submission permit. This guide does not grant permission or represent an institution's endorsement. EducationUSA recommends prospective students refrain from using AI when drafting admissions essays and other application content. The optional AI examples below are conditional demonstrations, not an endorsement. You can do every self-interview and self-review below on paper, without uploading anything.
+
+1. CHECK THE RULE BEFORE OPENING THE TOOL
+Read the current official policy for each institution, application platform, scholarship, or assignment. Record the source and date. If the same essay goes to several colleges, check all of them. A teacher's classroom permission does not override an admissions rule.
+
+Make a permission card:
+Institution/course and exact task: ______________________________
+Official policy URL/document and date checked: ___________________
+Exact relevant wording: _________________________________________
+Brainstorming questions: allowed / prohibited / unclear
+Content feedback: allowed / prohibited / unclear
+Spelling/grammar/punctuation: allowed / prohibited / unclear
+Disclosure: required details / explicitly not required / unclear
+My one requested action: ________________________________________
+
+If permission for your chosen action is unclear, ask the admissions office or instructor. Do not treat silence as permission. Until clarified, do not use AI for that action. If disclosure alone is unclear but the action is explicitly permitted without an unresolved condition, flag the question and resolve it before submitting. If all AI assistance is banned, work offline or with a permitted human adviser.
+
+2. MAKE YOUR OWN NOTES FIRST
+Note your intended subject and study level, then answer on paper or in your own document, one question at a time:
+- What actual experience or action do I choose as evidence?
+- What strength do I think that action shows?
+- What inspired my choice of subject?
+- What do I want to learn next?
+
+Keep a four-part inventory in your own words: Strength / Evidence / Inspiration / Next study goal. Confirm or correct every note before drafting. These are planning notes, not an essay outline: the actual prompt controls, and you do not have to force in all four parts.
+Ordinary experiences count. You do not need to disclose trauma. Do not manufacture a lesson, achievement, or feeling. If you do not know an answer, leave it open.
+
+3. WRITE AN IMPERFECT FIRST DRAFT YOURSELF
+Close the AI chat. Write in your everyday words. Do not ask a model to turn your notes into paragraphs, a hook, an outline, or a conclusion. Save this original version. Your dialect and cultural phrasing are not defects to erase.
+
+TRY IT ON PAPER: A 3-MINUTE INDIVIDUAL EXERCISE
+Work silently on your own, using paper or notes. No partner, live AI, or internet is needed. Keep your writing private; you do not have to share or disclose personal details.
+
+Illustrative practice prompt, not an actual university question:
+"What do you want to study, what inspired that choice, and which experiences show your strengths?"
+
+Minute 1: Note your intended subject, one strength, and an actual action that shows it.
+Minute 2: Add your own inspiration for that choice and one learning goal.
+Minute 3: Write or improve two sentences in your own words.
+
+School, community, or creative experiences can be used for practice; applicants in any field, including art/design, business, and science, can adapt the exercise. Postgraduate applicants may draw on degree, research, or other relevant experiences; professional experience is not required for this exercise.
+
+4. IF PERMITTED, ASK FOR ONE SMALL KIND OF HELP
+Load the coach using the instructions below, then supply your permission card. Give only the smallest necessary excerpt, with private details removed. Choose just one permitted action:
+
+INTERVIEW: Use it before drafting only if AI brainstorming questions are allowed.
+"Ask my intended subject and study level, then one question at a time about my chosen experience/action, my own chosen strength, my inspiration, and my next study goal. Keep a four-part inventory in my words and ask me to confirm it. Then pause while I draft independently."
+
+FEEDBACK: Use it after your own draft only if AI content feedback is allowed.
+"I wrote this first draft myself. Here is one selected sentence or short passage and my feedback goal. Ask at most two feedback questions. Do not rewrite anything."
+
+MICRO-EDIT: Use it only if that exact mechanical help is allowed.
+"Check spelling only in this excerpt. For each correction, use the labels Original, Suggested correction, and Reason. Keep the original quotation exact and the correction minimal. Keep everything else, including my phrasing, unchanged."
+
+Permission for grammar does not automatically permit brainstorming, content feedback, translation, or rewriting. The coach deliberately does less than some policies allow.
+
+5. YOU MAKE THE REVISION
+Do not accept a change just because it sounds polished. Write the revision yourself in your own document. Read it aloud. Ask:
+- Is it true? Does the evidence support the strength I chose?
+- Are the inspiration and next learning goal my own?
+- Would I say this? Do I understand every word?
+- Can I explain why I changed it?
+
+Reject invented details and unfamiliar wording. If the model drafts for you or goes beyond the rules, stop and do not use that output. A prompt is an instruction, not a technical lock.
+
+6. CHECK AND KEEP A RECORD
+Manually check the prompt, word limit, facts, names, and every change. Recheck the rule for the actual destination. Make any required disclosure truthfully; ask if the requirement is unclear. Keep original and later drafts plus a simple log:
+Date | Tool | Permitted action | What I accepted/rejected | Disclosure action
+
+A log is useful recordkeeping, not proof of authorship or compliance. AI detectors cannot certify that your work meets a policy.
+
+NATURAL COACHING, YOUR OWN REVISION
+The coach should use natural, clear, complete sentences and familiar words. Its own explanations should avoid em dashes, ornamental punctuation, artificial fragments, and inflated vocabulary. Short headings and inventory labels are fine. It must quote your text and sources exactly, including their punctuation.
+
+A request for a more polished version does not authorize an AI rewrite. For stylistic or substantive changes, the coach should ask focused feedback questions only when feedback is permitted, and you should make the revision yourself. Any separately permitted mechanical correction must stay within that exact category and preserve your vocabulary, personality, rhythm, dialect, and meaning. The coach must not automatically remove your punctuation or repair your fragments to match its own style rules. Fictional rehearsal still allows questions and feedback only, with no replacement text.
+
+LOAD THE COACH: SIMPLE ROUTE FOR CHATGPT OR CLAUDE
+1. Open Voice_First_Writing_Coach_Paste_Prompt.txt in a text editor.
+2. Copy everything below its separator into a NEW chat and send it.
+3. Its first question should distinguish REAL APPLICATION from FICTIONAL CLASSROOM REHEARSAL. For real use, answer the institution/task and policy checks before providing essay content.
+4. Use a new permission card for each different school/task. Restart with the full prompt if the chat loses the instructions.
+
+This route is ordinary copy-and-paste text. It does not require a custom GPT, a paid feature, or a native skill import. The Claude ZIP is not presented as an importable ChatGPT skill. Feature availability and school account restrictions may vary.
+
+OPTIONAL: INSTALL THE CLAUDE SKILL
+Use voice-first-writing-coach.zip. It contains only one readable SKILL.md instruction file, with no executable code, dependencies, or account connections.
+1. Read the bundled SKILL.md before enabling it.
+2. In Claude, enable Code execution and file creation (also called Create and edit files) if your account permits it. The platform requires this for Skills even though this skill contains no code.
+3. Open Customize > Skills, then + / Create skill > Upload a skill.
+4. Upload the ZIP without changing its folder structure; enable the skill.
+5. In a new chat say: "Use voice-first-writing-coach. Start by asking whether this is a real application or fictional classroom rehearsal."
+If these controls are missing, use the paste-prompt route or consult your account administrator. Do not bypass school restrictions.
+
+TRY A FICTIONAL CLASSROOM REHEARSAL
+To test the method without using an actual application, say:
+"This is a fictional classroom rehearsal, not a real application. I will supply all fictional facts. Nothing will be reused in an application. Use questions and feedback only; do not write or correct sentences for me."
+Confirm the scope and any classroom rules with the coach. If this is self-directed testing rather than an assignment, say so. Supply the fictional intended subject/study level and facts yourself as the coach asks one question at a time. Do not upload real student work or sensitive details under a fictional label. Confirm or correct its four-part inventory, pause to write your own practice draft, then provide one selected sentence/passage and a feedback goal. It should ask at most two feedback questions, not supply replacement prose. Rehearsal is practice, not institution clearance. Teacher permission for practice does not authorize applications.
+
+QUICK CHECKS AFTER LOADING
+- Real-policy gate: "This is a real application. I don't know the college's AI policy. Interview me for essay ideas." It should NOT interview you; it should stay with process/policy guidance.
+- Rehearsal boundary: after confirming a valid fictional scope, ask it to write a hook or correct a sentence. It should not provide replacement prose, even for fictional practice.
+- Method: it should ask one question at a time; use only your words for Strength / Evidence / Inspiration / Next study goal; ask you to confirm the notes; then pause for your independently written draft.
+- Switch to real use: "I will reuse this rehearsal for my actual application." It should stop content coaching and perform the real institution/task policy check.
+If it crosses a boundary, stop using that output. These checks do not guarantee model behavior.
+
+PRIVACY
+Use placeholders. Remove contact details, identifiers, other people's private information, and sensitive details you do not want to upload. Follow your school's account rules and the product's age/privacy terms. Do not assume a consumer chat is confidential.
+
+POLICIES DIFFER: EXAMPLES, NOT PERMISSION FOR YOUR TASK
+Checked October 29, 2026:
+- Yale permits grammar/spelling review and certain general advice/topic suggestions, but bars submitting substantive AI-generated content. This coach remains narrower: no AI-written essay prose.
+  https://admissions.yale.edu/ai-policy
+- Caltech's Fall 2027 guidance permits specified brainstorming questions/exercises and grammar/spelling review of completed essays; it lists AI outlining/drafting, voice replacement, and translation among unethical uses.
+  https://www.admissions.caltech.edu/apply/first-year-applicants/supplemental-application-essays/ethical-use-of-ai-guidelines-for-fall-applicants
+- Common App's fraud policy addresses presenting substantive AI output as one's own original work. Always read the current platform and college rules together.
+  https://appsupport.commonapp.org/applicantsupport/s/article/How-does-Common-App-handle-fraud
+
+Claude setup references, checked October 29, 2026:
+https://support.claude.com/en/articles/12512180-use-skills-in-claude
+https://support.claude.com/en/articles/12512198-how-to-create-custom-skills
+
+LIMITS
+This coach does not guarantee rule compliance, admissions outcomes, privacy, or consistent model behavior. It is not a detector-avoidance tool. If a classroom exercise explicitly asks for AI-generated prose, follow that assignment's rules using a different, appropriate workflow; do not transfer that permission to applications.
