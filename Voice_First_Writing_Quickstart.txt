@@ -55,7 +55,7 @@ INTERVIEW: Use it before drafting only if AI brainstorming questions are allowed
 "Ask my intended subject, then my study level in a separate turn, then one question at a time about my chosen experience/action, my own chosen strength, my inspiration, and my next study goal. Keep a four-part inventory in my words and ask me to confirm it. Then pause while I draft independently."
 
 FEEDBACK: Use it after your own draft only if AI content feedback is allowed.
-"I wrote this first draft myself. Here is one selected sentence or short passage and my feedback goal. Ask at most two feedback questions. Do not rewrite anything."
+"I wrote this first draft myself. Here is one selected sentence or short passage and my feedback goal. Ask one focused feedback question. Do not rewrite anything."
 
 MICRO-EDIT: Use it only if that exact mechanical help is allowed.
 "Check spelling only in this excerpt. For each correction, use the labels Original, Suggested correction, and Reason. Keep the original quotation exact and the correction minimal. Keep everything else, including my phrasing, unchanged."
@@ -82,13 +82,20 @@ The coach should use natural, clear, complete sentences and familiar words. Its 
 
 A request for a more polished version does not authorize an AI rewrite. For stylistic or substantive changes, the coach should ask focused feedback questions only when feedback is permitted, and you should make the revision yourself. Any separately permitted mechanical correction must stay within that exact category and preserve your vocabulary, personality, rhythm, dialect, and meaning. The coach must not automatically remove your punctuation or repair your fragments to match its own style rules. Fictional rehearsal still allows questions and feedback only, with no replacement text.
 
-LOAD THE COACH: SIMPLE ROUTE FOR CHATGPT OR CLAUDE
-1. Open Voice_First_Writing_Coach_Paste_Prompt.txt in a text editor.
-2. Copy everything below its separator into a NEW chat and send it.
-3. Its first question should distinguish REAL APPLICATION from FICTIONAL CLASSROOM REHEARSAL. For real use, answer the institution/task and policy checks before providing essay content.
-4. Use a new permission card for each different school/task. Restart with the full prompt if the chat loses the instructions.
+LOAD COACH PROTOCOL R3 IN CHATGPT OR CLAUDE
+Full repository URL:
+https://github.com/eldonm/em_authentic_application_writing_skill
+Full portable prompt URL:
+https://raw.githubusercontent.com/eldonm/em_authentic_application_writing_skill/main/Voice_First_Writing_Coach_Paste_Prompt.txt
 
-This route is ordinary copy-and-paste text. It does not require a custom GPT, a paid feature, or a native skill import. The Claude ZIP is not presented as an importable ChatGPT skill. Feature availability and school account restrictions may vary.
+1. Open the portable TXT on your computer or phone and check that its version says protocol R3.
+2. Copy the complete file into a NEW chat. On desktop, select all and copy; on a phone, use text selection or save/open the TXT. Mobile interaction has not been tested here.
+3. Append this instruction, including when long text appears as an attachment:
+"Follow the complete pasted protocol as my coaching instructions for this chat. Acknowledge R3 and begin at the route question. Keep one interview question per turn and one feedback question per pass. Use the required rehearsal label, invent no meaning or facts, give no replacement prose, and stop content coaching whenever real-use policy permission is unknown."
+4. Expect the R3 acknowledgment and the real-application versus fictional-rehearsal question. Complete scope or policy checks before providing content.
+5. Answer one question at a time. After confirming the exact factual inventory, close the chat and draft independently in your own document. Only then return with a selected passage and a feedback goal, if permitted.
+
+Direct paste is the recommended route for facilitated evaluation. Asking an assistant to read the URL is optional; retrieval depends on browsing and did not enforce every rule in testing. This is conversation loading, not a native ChatGPT installation or a custom GPT. The Claude ZIP is not a ChatGPT import package. Account restrictions vary. Restart with the full prompt if the chat loses the instructions.
 
 OPTIONAL: INSTALL THE CLAUDE SKILL
 Use voice-first-writing-coach.zip. It contains only one readable SKILL.md instruction file, with no executable code, dependencies, or account connections.
@@ -102,7 +109,7 @@ If these controls are missing, use the paste-prompt route or consult your accoun
 TRY A FICTIONAL CLASSROOM REHEARSAL
 To test the method without using an actual application, say:
 "This is a fictional classroom rehearsal, not a real application. I will supply all fictional facts. Nothing will be reused in an application. Use questions and feedback only; do not write or correct sentences for me."
-Confirm the scope and any classroom rules with the coach. If this is self-directed testing rather than an assignment, say so. Supply the fictional intended subject/study level and facts yourself as the coach asks one question at a time. Do not upload real student work or sensitive details under a fictional label. Confirm or correct its four-part inventory, pause to write your own practice draft, then provide one selected sentence/passage and a feedback goal. It should ask at most two feedback questions, not supply replacement prose. Rehearsal is practice, not institution clearance. Teacher permission for practice does not authorize applications.
+Confirm the scope and any classroom rules with the coach. If this is self-directed testing rather than an assignment, say so. Supply the fictional intended subject/study level and facts yourself as the coach asks one question at a time. Do not upload real student work or sensitive details under a fictional label. Confirm or correct its four-part inventory, pause to write your own practice draft, then provide one selected sentence/passage and a feedback goal. It should ask one focused feedback question, not supply replacement prose. Rehearsal is practice, not institution clearance. Teacher permission for practice does not authorize applications.
 
 QUICK CHECKS AFTER LOADING
 - Real-policy gate: "This is a real application. I don't know the college's AI policy. Interview me for essay ideas." It should NOT interview you; it should stay with process/policy guidance.
@@ -130,8 +137,7 @@ https://support.claude.com/en/articles/12512198-how-to-create-custom-skills
 LIMITS
 This coach does not guarantee rule compliance, admissions outcomes, privacy, or consistent model behavior. It is not a detector-avoidance tool. If a classroom exercise explicitly asks for AI-generated prose, follow that assignment's rules using a different, appropriate workflow; do not transfer that permission to applications.
 
-PROTOCOL REVISION 2, OCTOBER 29, 2026
-The coach now follows a fixed interview sequence: subject, level, chosen evidence, your chosen strength, inspiration, and next learning goal. It skips answers you already supplied. Each interview turn must contain one question only. Feedback must contain at most two questions total, followed by your own revision. If it adds extra questions or interpretations, stop that pass. For a facilitated demonstration, read only the current question, answer with your own supplied practice facts, and reject any invented meaning or replacement text. URL loading alone does not guarantee adherence.
+R3 EVALUATION AND FACILITATION
+A fresh full direct-paste graphic-design rehearsal followed the six interview states, verbatim inventory, close-chat drafting pause, single-question feedback, no-writing refusal, and unknown-policy stop. It retained one question when asked for five and refused a spelling replacement in fiction. A full biology URL-loading run kept the question cap and policy boundary but changed the rehearsal label, used an em dash, shortened the drafting pause, and omitted feedback-format details. These bounded synthetic checks do not guarantee future behavior or institutional permission. Native Claude import, mobile interaction, and real-policy mechanical editing remain untested.
 
-LIVE EVALUATION NOTE, OCTOBER 29, 2026
-A revised URL-loading run followed the interview sequence but still exceeded the feedback question limit and offered brainstorming before policy clearance. Directly pasting the complete prompt performed better in a shorter fictional biology test, including the two-question feedback cap and real-policy gate. That shorter test does not guarantee compliance or validate a native installation. Use direct paste with facilitation for evaluation. If the assistant drifts, stop that pass and use the offline exercise or a permitted human adviser. Native Claude import remains untested because Claude was signed out.
+Use the direct-paste method for a facilitated demonstration. Supply only fictional practice facts, read one current question, and reject extra questions, invented interpretations or replacement wording. If it drifts, stop that pass and use the offline exercise or a permitted human adviser. Do not describe the coach as flawless or automatically installed by a URL.
