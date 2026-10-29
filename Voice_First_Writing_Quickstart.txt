@@ -52,7 +52,7 @@ School, community, or creative experiences can be used for practice; applicants 
 Load the coach using the instructions below, then supply your permission card. Give only the smallest necessary excerpt, with private details removed. Choose just one permitted action:
 
 INTERVIEW: Use it before drafting only if AI brainstorming questions are allowed.
-"Ask my intended subject and study level, then one question at a time about my chosen experience/action, my own chosen strength, my inspiration, and my next study goal. Keep a four-part inventory in my words and ask me to confirm it. Then pause while I draft independently."
+"Ask my intended subject, then my study level in a separate turn, then one question at a time about my chosen experience/action, my own chosen strength, my inspiration, and my next study goal. Keep a four-part inventory in my words and ask me to confirm it. Then pause while I draft independently."
 
 FEEDBACK: Use it after your own draft only if AI content feedback is allowed.
 "I wrote this first draft myself. Here is one selected sentence or short passage and my feedback goal. Ask at most two feedback questions. Do not rewrite anything."
@@ -129,3 +129,6 @@ https://support.claude.com/en/articles/12512198-how-to-create-custom-skills
 
 LIMITS
 This coach does not guarantee rule compliance, admissions outcomes, privacy, or consistent model behavior. It is not a detector-avoidance tool. If a classroom exercise explicitly asks for AI-generated prose, follow that assignment's rules using a different, appropriate workflow; do not transfer that permission to applications.
+
+PROTOCOL REVISION 2, OCTOBER 29, 2026
+The coach now follows a fixed interview sequence: subject, level, chosen evidence, your chosen strength, inspiration, and next learning goal. It skips answers you already supplied. Each interview turn must contain one question only. Feedback must contain at most two questions total, followed by your own revision. If it adds extra questions or interpretations, stop that pass. For a facilitated demonstration, read only the current question, answer with your own supplied practice facts, and reject any invented meaning or replacement text. URL loading alone does not guarantee adherence.
