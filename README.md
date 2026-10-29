@@ -6,6 +6,14 @@ The method helps students identify a strength in their own words, an experience 
 
 The coach uses plain, natural sentences and familiar words. It preserves the student's vocabulary, dialect, rhythm, and meaning. It does not write application prose, invent personal facts, rewrite for polish, or help evade AI detection.
 
+## Initial live test: partial pass, October 29, 2026
+
+Public downloads matched the source files, and the ZIP integrity and structure checks passed. In one fresh ChatGPT Instant conversation, the assistant reported retrieving the hosted prompt, accepted a synthetic rehearsal, preserved supplied facts in a confirmed inventory, paused for independent drafting, refused to write replacement prose, and stopped application-specific coaching when the institution's policy was unknown.
+
+The live run also failed several instructions: it asked multiple interview questions in a turn, omitted the required rehearsal label in several replies, added interpretive framing, and gave six feedback questions instead of at most two. Its own wording also drifted from the requested style. The four inventory elements were collected with tester redirection rather than a clean independent interview. These are behavior failures despite explicit prompt instructions. This initial release is suitable for evaluation, with supervision; it has not passed the full coaching protocol. Do not treat successful URL retrieval as reliable rule enforcement.
+
+Claude opened at a sign-in screen, so native ZIP upload, activation, and runtime behavior remain untested. No Claude account settings were changed. No native ChatGPT skill installation was performed.
+
 ## Start in ChatGPT, Claude, or another chat assistant
 
 Open a new chat and send:
