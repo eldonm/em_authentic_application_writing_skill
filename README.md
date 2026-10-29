@@ -2,7 +2,7 @@
 
 Prepared by Eldon Marks for the EducationUSA session “Beyond the Prompt: Navigating AI Authenticity in College Admissions,” October 30, 2026.
 
-Coach protocol R4 helps the participant identify their own strength, evidence, inspiration, and next learning goal. It asks one interview question per turn, records exact supplied words for confirmation, and pauses while the participant closes the chat and writes independently. When feedback is permitted, R3 gives one focused feedback question per pass. The participant makes the revision. It does not write application prose, invent meaning or facts, or help evade detectors.
+Coach protocol R4 helps the participant identify their own strength, evidence, inspiration, and next learning goal. It asks one interview question per turn, records exact supplied words for confirmation, and pauses while the participant closes the chat and writes independently. When feedback is permitted, R4 gives one focused feedback question per pass. The participant makes the revision. It does not write application prose, invent meaning or facts, or help evade detectors.
 
 ## Recommended setup: copy the full prompt into a new chat
 
@@ -26,7 +26,7 @@ This loads instructions for a conversation. It does not install a native ChatGPT
 
 ## Optional URL retrieval
 
-For testing assistants with browsing, replace “the complete pasted protocol” in the instruction above with “the complete file at” followed by the portable prompt URL. Explicitly request complete retrieval and stop if retrieval fails. The predecessor R3 URL test kept core question and policy limits but drifted in wording and flow. R4 URL retrieval has not been live-tested; use the direct-paste route for the current evaluated flow.
+For testing assistants with browsing, replace “the complete pasted instructions” in the instruction above with “the complete file at” followed by the portable prompt URL. Explicitly request complete retrieval and stop if retrieval fails. The predecessor R3 URL test kept core question and policy limits but drifted in wording and flow. R4 URL retrieval has not been live-tested; use the direct-paste route for the current evaluated flow.
 
 Successful retrieval does not establish that an assistant will obey every rule. The URL route remains optional and less reliable in our tests. Direct paste is recommended for facilitated evaluation.
 
