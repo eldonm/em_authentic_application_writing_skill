@@ -6,23 +6,27 @@ The method helps students identify a strength in their own words, an experience 
 
 The coach uses plain, natural sentences and familiar words. It preserves the student's vocabulary, dialect, rhythm, and meaning. It does not write application prose, invent personal facts, rewrite for polish, or help evade AI detection.
 
-## Initial live test: partial pass, October 29, 2026
+## Live evaluation, October 29, 2026
 
-Public downloads matched the source files, and the ZIP integrity and structure checks passed. In one fresh ChatGPT Instant conversation, the assistant reported retrieving the hosted prompt, accepted a synthetic rehearsal, preserved supplied facts in a confirmed inventory, paused for independent drafting, refused to write replacement prose, and stopped application-specific coaching when the institution's policy was unknown.
+Protocol revision 2 uses explicit states and puts response limits first. The prompt, SKILL.md and ZIP contain the same coaching instructions. The package has no code or dependencies.
 
-The live run also failed several instructions: it asked multiple interview questions in a turn, omitted the required rehearsal label in several replies, added interpretive framing, and gave six feedback questions instead of at most two. Its own wording also drifted from the requested style. The four inventory elements were collected with tester redirection rather than a clean independent interview. These are behavior failures despite explicit prompt instructions. This initial release is suitable for evaluation, with supervision; it has not passed the full coaching protocol. Do not treat successful URL retrieval as reliable rule enforcement.
+A fresh ChatGPT Instant test loaded revision 2 through a commit-specific URL. It completed the six interview stages in order with one question per turn, preserved the supplied facts in a confirmed inventory, and provided no replacement prose. It still failed the feedback cap by asking four questions, shortened the independent drafting pause, omitted the rehearsal label in a refusal, added interpretations, and offered brainstorming before real-use policy clearance. URL loading has not passed the coaching protocol.
 
-Claude opened at a sign-in screen, so native ZIP upload, activation, and runtime behavior remain untested. No Claude account settings were changed. No native ChatGPT skill installation was performed.
+A separate, shorter biology variation used the full downloaded prompt pasted into a fresh ChatGPT conversation. It skipped already supplied facts, preserved the four-part inventory exactly, gave the explicit independent drafting pause, asked exactly two feedback questions, refused rewriting, and stopped content coaching when real-use policy was unknown. Its own wording stayed plain in that variation. This was a limited synthetic smoke test, not a full second interview or a guarantee. The refusal included some extra advice beyond the intended short refusal format.
+
+Use the direct paste route for supervised evaluation. Read the current question, answer with your own supplied practice facts, and reject extra questions, interpretations or replacement text. Do not continue actual application coaching without verified permission. The initial release and the revised URL test both showed instruction drift. Claude native import remains untested because Claude was at sign-in. No native ChatGPT installation was performed.
 
 ## Start in ChatGPT, Claude, or another chat assistant
 
-Open a new chat and send:
+For the recommended direct paste route, open [the portable prompt](Voice_First_Writing_Coach_Paste_Prompt.txt), copy the full coaching instructions below the separator into a new chat, and ask the assistant to follow them. Large pasted text may appear as an attachment; explicitly ask it to follow the coach instructions.
+
+For evaluating URL retrieval, open a new chat and send:
 
 > Read the complete instructions at https://raw.githubusercontent.com/eldonm/em_authentic_application_writing_skill/main/Voice_First_Writing_Coach_Paste_Prompt.txt and follow the coach instructions below the separator in this conversation. If you cannot retrieve the full text, tell me rather than guessing. Begin with its route question.
 
 This asks the assistant to retrieve and follow a prompt. It does not guarantee retrieval, create a custom GPT, or install a native skill. Browsing access and account restrictions vary. Check that it starts by distinguishing a real application from fictional classroom rehearsal.
 
-**Copy-and-paste fallback:** Open [the portable prompt](Voice_First_Writing_Coach_Paste_Prompt.txt), copy everything below the separator into a new chat, and send it. If the assistant cannot open the link, download that text file and open it in a text editor. Restart with the full prompt if the conversation loses the instructions. The Claude ZIP is not a ChatGPT import package.
+**Direct paste:** Open [the portable prompt](Voice_First_Writing_Coach_Paste_Prompt.txt), copy everything below the separator into a new chat, and send it. If the assistant cannot open the link, download that text file and open it in a text editor. Restart with the full prompt if the conversation loses the instructions. The Claude ZIP is not a ChatGPT import package.
 
 Read the [student quickstart](Voice_First_Writing_Quickstart.txt) before using the coach. It includes an offline exercise, permission card, examples, and checks.
 
