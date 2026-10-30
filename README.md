@@ -2,7 +2,13 @@
 
 Prepared by Eldon Marks for the EducationUSA session “Beyond the Prompt: Navigating AI Authenticity in College Admissions,” October 30, 2026.
 
-Coach protocol R4 helps the participant identify their own strength, evidence, inspiration, and next learning goal. It asks one interview question per turn, records exact supplied words for confirmation, and pauses while the participant closes the chat and writes independently. When feedback is permitted, R4 gives one focused feedback question per pass. The participant makes the revision. It does not write application prose, invent meaning or facts, or help evade detectors.
+Coach protocol R5 helps the participant identify their own strength, evidence, inspiration, and next learning goal. It asks one interview question per turn, records exact supplied words for confirmation, and pauses while the participant closes the chat and writes independently. When feedback is permitted, the coach gives one focused feedback question per pass. The participant makes the revision. It does not write application prose, invent meaning or facts, or help evade detectors.
+
+## R5: one process from preparation to revision
+
+R5 aligns the coach with five stages: check rules, gather your material, draft independently, request focused feedback, and revise and verify. It supports a continuous facilitator-supplied teaching example without inventing the mock learner's facts or writing their essay. A supplied revision can be checked against the original feedback goal on request. Teaching drafts are explicitly synthetic materials, not evidence of student authorship.
+
+R5 evaluation is in progress. The results below describe the prior R4 evaluation until the R5 results are recorded.
 
 ## Recommended setup: copy the full prompt into a new chat
 
@@ -12,13 +18,13 @@ https://github.com/eldonm/em_authentic_application_writing_skill
 Full portable prompt URL:
 https://raw.githubusercontent.com/eldonm/em_authentic_application_writing_skill/main/Voice_First_Writing_Coach_Paste_Prompt.txt
 
-1. Open the portable prompt on your computer or phone. Check that its version says **protocol R4**. You can also open the text file from this repository and select **Raw**.
+1. Open the portable prompt on your computer or phone. Check that its version says **protocol R5**. You can also open the text file from this repository and select **Raw**.
 2. Copy the complete text into a **new** ChatGPT or Claude conversation. Desktop: select all and copy. On a phone: use the text selection controls, or save the TXT and open it in a text editor. Mobile selection and account controls vary; mobile operation has not been tested here.
 3. Append this instruction and send the message. If long text becomes an attachment, put the instruction in the message alongside it:
 
 > Follow the complete pasted instructions as my writing coach in this chat. Begin naturally. Ask one question at a time, keep feedback to one focused question, leave the writing to me, and check the applicable rules before any real application coaching.
 
-4. Expect a natural question about practice versus something you may submit. The coach should establish context once, skip facts already supplied, and continue without repeated disclaimers or mode announcements. Check R4 in the file itself; the coach should not announce its internal protocol. If the full text is unavailable, reload it before sharing writing.
+4. Expect a natural question about practice versus something you may submit. The coach should establish context once, skip facts already supplied, and continue without repeated disclaimers or mode announcements. Check R5 in the file itself; the coach should not announce its internal protocol. If the full text is unavailable, reload it before sharing writing.
 5. For rehearsal, confirm fictional supplied facts only, no real student material, no application reuse, and the classroom rules or self-directed scope. For real use, complete the exact institution/task policy check before any content coaching.
 6. Answer one question at a time. Confirm the inventory, close the chat, and write your own draft. Return with one selected passage and one feedback goal only if feedback is permitted. You revise yourself.
 
@@ -42,7 +48,7 @@ https://github.com/eldonm/em_authentic_application_writing_skill/raw/refs/heads/
 
 Controls and permissions vary by account. If unavailable, use the direct-paste route. Native Claude import is untested here because the available Claude tab was at sign-in. See Claude's official [use guide](https://support.claude.com/en/articles/12512180-use-skills-in-claude) and [custom skill guide](https://support.claude.com/en/articles/12512198-how-to-create-custom-skills), checked October 29, 2026.
 
-## R4 live evaluation, October 29, 2026
+## Prior R4 live evaluation, October 29, 2026
 
 R4 removes repeated practice disclaimers and robotic mode announcements. It establishes context once, remembers it silently, uses natural complete-sentence questions, and skips information already supplied. It retains the authorship and policy safeguards. The prompt, SKILL.md and ZIP contain identical coaching instructions.
 
