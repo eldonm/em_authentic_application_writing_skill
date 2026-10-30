@@ -4,6 +4,16 @@ Prepared by Eldon Marks for the EducationUSA session “Beyond the Prompt: Navig
 
 **Protocol R8 is for students working on their own real writing.** It follows five steps: **check, gather, draft, get feedback, revise and verify**. The student supplies the experiences, decides what they mean, and writes every draft and revision. The coach asks questions and provides focused feedback only when the applicable rules permit it.
 
+## Watch the coach in action
+
+![Recorded writing coach walkthrough: check, gather, draft, get feedback, revise and verify](assets/writing-coach-demo.gif)
+
+This 1 minute 58 second overview uses actual dialogue from the recorded R7 demonstration. Long waits are removed, with brief reading pauses and labels for the five steps. The participant's example facts and writing were supplied separately for the demonstration; the coach's replies have not been rewritten. The current R8 prompt includes the activation sentence shown separately in the recording.
+
+[Open or download the GIF](assets/writing-coach-demo.gif).
+
+The recording shows the coach's Yale policy check. It does not independently establish that every later feedback action is permitted. Verify the current rules for your exact task and requested assistance.
+
 ## What changed in R8
 
 The startup sentence is now part of the portable prompt. Paste the complete instructions and send. The coach is instructed to begin immediately, including when a long paste appears as an attachment. Students no longer need to add a separate activation sentence. The packaged skill has the same coaching instructions.
