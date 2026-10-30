@@ -8,7 +8,7 @@ Prepared by Eldon Marks for the EducationUSA session “Beyond the Prompt: Navig
 
 ![Recorded writing coach walkthrough: check, gather, draft, get feedback, revise and verify](assets/writing-coach-demo.gif)
 
-This 1 minute 58 second overview uses actual dialogue from the recorded R7 demonstration. Long waits are removed, with brief reading pauses and labels for the five steps. The participant's example facts and writing were supplied separately for the demonstration; the coach's replies have not been rewritten. The current R8 prompt includes the activation sentence shown separately in the recording.
+This 3 minute 35 second edit uses moving footage from the recorded R7 demonstration. The retained footage plays at normal speed, including live responses, scrolling and expansion of the participant's text. Long idle gaps are cut, and the header identifies the current phase of the five-step process. The participant's example facts and writing were supplied separately for the demonstration; the coach's replies have not been rewritten. The current R8 prompt includes the activation sentence shown separately in the recording.
 
 [Open or download the GIF](assets/writing-coach-demo.gif).
 
