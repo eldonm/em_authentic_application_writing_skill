@@ -2,9 +2,13 @@
 
 Prepared by Eldon Marks for the EducationUSA session “Beyond the Prompt: Navigating AI Authenticity in College Admissions,” October 30, 2026.
 
-**Protocol R7 is for students working on their own real writing.** It follows five steps: **check, gather, draft, get feedback, revise and verify**. The student supplies the experiences, decides what they mean, and writes every draft and revision. The coach asks questions and provides focused feedback only when the applicable rules permit it.
+**Protocol R8 is for students working on their own real writing.** It follows five steps: **check, gather, draft, get feedback, revise and verify**. The student supplies the experiences, decides what they mean, and writes every draft and revision. The coach asks questions and provides focused feedback only when the applicable rules permit it.
 
-## What changed in R7
+## What changed in R8
+
+The startup sentence is now part of the portable prompt. Paste the complete instructions and send. The coach is instructed to begin immediately, including when a long paste appears as an attachment. Students no longer need to add a separate activation sentence. The packaged skill has the same coaching instructions.
+
+## Continuing safeguards from R7
 
 The invented-details and facilitator-demonstration routes have been removed. The coach no longer asks students to choose between practice and actual use. It starts with the student's real task and destination, checks the relevant rules, then continues from the stage they have already reached.
 
@@ -20,12 +24,9 @@ https://github.com/eldonm/em_authentic_application_writing_skill
 Portable prompt:
 https://raw.githubusercontent.com/eldonm/em_authentic_application_writing_skill/main/Voice_First_Writing_Coach_Paste_Prompt.txt
 
-1. Open the portable prompt, or open its file here and choose **Raw**. Check for **Protocol R7**.
-2. Copy all coaching instructions into a new ChatGPT or Claude conversation.
-3. Add the following sentence. If a long paste becomes an attachment, put the sentence in the message alongside it:
-
-> Use these instructions as my writing coach. Begin naturally, ask one question at a time, and leave the writing to me.
-
+1. Open the portable prompt, or open its file here and choose **Raw**. Check for **Protocol R8**.
+2. Copy everything below the separator into a new ChatGPT or Claude conversation and **send**. The startup sentence is included. A long paste may appear as an attachment; send that message without adding another instruction.
+3. The coach should begin naturally. No separate activation sentence is needed.
 4. Supply your actual writing task and destination. Mention any notes or first draft you already have and what help you want. The coach should ask only for missing details and the relevant rules.
 
 Expect an opening such as “What writing task would you like help with?” It should not ask you to select a mode. If it already knows the task, it should ask for the next missing detail instead.
@@ -64,6 +65,8 @@ R7 was checked in two separate agent conversations on October 29, 2026, with par
 
 These are focused instruction-following checks in the agent environment, not product integration tests. Metadata validation, ZIP integrity, matching prompt/skill contents, and removal of the old route were also checked.
 
-Earlier R6 agent checks covered interview flow, draft entry, revision and policy boundaries. A live ChatGPT conversation subsequently completed a facilitator-supplied demonstration using R6. That demonstration used prepared material and does not establish real student authorship, policy permission, or R7 behavior. Its instructions still include the removed route; start a new conversation with R7 rather than continuing that old chat.
+Earlier R6 agent checks covered interview flow, draft entry, revision and policy boundaries. A live ChatGPT conversation subsequently completed a facilitator-supplied demonstration using R6. That demonstration used prepared material and does not establish real student authorship, policy permission, or R7 behavior. Its instructions still include the removed route; start a new conversation with the current portable prompt rather than continuing that old chat.
 
-R7 live ChatGPT behavior, native Claude import, mobile operation and mechanical editing under a verified real policy remain untested. Bounded instruction-following checks cannot establish perfection, institutional permission or behavior across products and future models.
+A later recorded R7 ChatGPT walkthrough completed the sequence from task checking through revision with sample student inputs supplied separately. That run does not establish real student authorship or institutional permission for every observed action.
+
+R8 changes startup only. On October 30, 2026, a fresh ChatGPT conversation received only the complete pasted prompt, which became an attachment, with no additional message. Its first response was “What writing task would you like help with?” This verifies startup for that desktop run. A complete R8 walkthrough, native Claude import, mobile operation and mechanical editing under a verified real policy remain untested. Bounded instruction-following checks cannot establish perfection, institutional permission or behavior across products and future models.

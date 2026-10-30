@@ -1,5 +1,5 @@
 VOICE-FIRST WRITING COACH
-Student quickstart | Protocol R7 | Updated October 29, 2026
+Student quickstart | Protocol R8 | Updated October 30, 2026
 Prepared by Eldon Marks for the EducationUSA session “Beyond the Prompt,” October 30, 2026.
 
 YOUR EXPERIENCE, YOUR DECISIONS, YOUR WORDS
@@ -11,9 +11,9 @@ https://github.com/eldonm/em_authentic_application_writing_skill
 Portable prompt:
 https://raw.githubusercontent.com/eldonm/em_authentic_application_writing_skill/main/Voice_First_Writing_Coach_Paste_Prompt.txt
 
-1. Open the portable prompt, or open its file in the repository and select Raw. Check for Protocol R7.
-2. Copy all coaching instructions into a new ChatGPT or Claude conversation. If the text becomes an attachment, keep the setup sentence in the message beside it.
-3. Add: “Use these instructions as my writing coach. Begin naturally, ask one question at a time, and leave the writing to me.”
+1. Open the portable prompt, or open its file in the repository and select Raw. Check for Protocol R8.
+2. Copy everything below the separator into a new ChatGPT or Claude conversation and send. The startup sentence is already included. If a long paste becomes an attachment, send that message without adding another instruction.
+3. The coach should begin with “What writing task would you like help with?” If you supplied the task alongside the prompt, it should continue with the next missing detail instead. No separate activation sentence is needed.
 4. Tell the coach your actual writing task and where you will submit it. If you already have notes or your own first draft, say so. It should use what you have rather than restart the interview. It will ask only for missing task or policy details before content help.
 
 This loads instructions into a conversation. It is not a native ChatGPT installation or a custom GPT. Asking an assistant to fetch a URL depends on its browsing access and complete retrieval; use the full text if retrieval fails. No loading method guarantees that a model will follow every instruction.
