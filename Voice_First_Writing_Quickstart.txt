@@ -1,5 +1,5 @@
 VOICE-FIRST WRITING COACH
-Student quickstart | Protocol R6 | Updated October 29, 2026
+Student quickstart | Protocol R7 | Updated October 29, 2026
 Prepared by Eldon Marks for the EducationUSA session “Beyond the Prompt,” October 30, 2026.
 
 YOUR EXPERIENCE, YOUR DECISIONS, YOUR WORDS
@@ -11,10 +11,10 @@ https://github.com/eldonm/em_authentic_application_writing_skill
 Portable prompt:
 https://raw.githubusercontent.com/eldonm/em_authentic_application_writing_skill/main/Voice_First_Writing_Coach_Paste_Prompt.txt
 
-1. Open the portable prompt, or open its file in the repository and select Raw. Check for Protocol R6.
+1. Open the portable prompt, or open its file in the repository and select Raw. Check for Protocol R7.
 2. Copy all coaching instructions into a new ChatGPT or Claude conversation. If the text becomes an attachment, keep the setup sentence in the message beside it.
 3. Add: “Use these instructions as my writing coach. Begin naturally, ask one question at a time, and leave the writing to me.”
-4. Tell the coach whether this is practice or something you may submit. If you already have notes or your own draft, say so. It should use what you have rather than restart the interview.
+4. Tell the coach your actual writing task and where you will submit it. If you already have notes or your own first draft, say so. It should use what you have rather than restart the interview. It will ask only for missing task or policy details before content help.
 
 This loads instructions into a conversation. It is not a native ChatGPT installation or a custom GPT. Asking an assistant to fetch a URL depends on its browsing access and complete retrieval; use the full text if retrieval fails. No loading method guarantees that a model will follow every instruction.
 
@@ -33,7 +33,7 @@ Conditions and required disclosure: _________________________
 
 Supply information you already have; the coach should ask only for missing details. If the action's permission is unknown, pause that action and ask the responsible office or instructor. If all AI assistance is prohibited, work independently or with a permitted human adviser. Resolve disclosure requirements before submission. Disclosure does not make prohibited assistance permissible.
 
-For practice, use invented details that you or a facilitator supply. Establish once that no real or sensitive student work or application reuse is involved, and follow any classroom rules. A self-directed demonstration without an assessed assignment needs no admissions policy. Switching to actual use triggers the real-policy check.
+The coach is for your own real writing. It does not offer an invented-applicant or demonstration mode. Use your actual experiences and your own draft. Do not supply a made-up profile or prepared teaching essay as a substitute. You can use placeholders and omit private identifiers without inventing your experience.
 
 2. GATHER
 Choose one experience and describe what you actually did. Name a strength only if it helps answer your task. Explain your own interest and what you want to learn next. Ordinary experiences count; no award, job or hardship is required.
@@ -53,7 +53,7 @@ Expect an exact short quotation, a clear reader uncertainty, one question and an
 
 For “AI-esque” language, examine writing quality: vague claims, inflated impact, interchangeable wording and unsupported conclusions. Compare claims with your actual experience. These features do not prove AI authorship. Do not replace words just to fool a detector.
 
-If your task permits only a mechanical check, request that exact category on your own first draft. Example: “Check spelling only. Show Original / Suggested correction / Reason. Leave my meaning, phrasing and dialect unchanged.” This permission does not permit other help. Fictional practice coaching provides no replacement prose or mechanical corrections.
+If your task permits only a mechanical check, request that exact category on your own first draft. Example: “Check spelling only. Show Original / Suggested correction / Reason. Leave my meaning, phrasing and dialect unchanged.” This permission does not permit other help. The correction must stay within the category you requested and the rules permit.
 
 5. REVISE AND VERIFY
 Write the revision yourself. You may ask whether it resolves the same feedback goal. The coach should compare your before-and-after wording, not silently rewrite it or start an unrelated critique.
@@ -72,9 +72,6 @@ Minute 1: Choose one experience and record what you did.
 Minute 2: Note what interested you and one thing you want to learn.
 Minute 3: Write two sentences. Identify one claim that needs clearer evidence.
 No login or partner is needed. You do not have to share private details.
-
-FOR PRESENTERS
-Supply one invented profile, a prepared first draft and a prepared revision. Identify those materials as synthetic teaching examples once. Show where a real student would close the chat and write independently. Keep the coach's questions and feedback distinct from the prepared prose. Do not call a scripted demonstration a live test or evidence of independent student authorship. Deliberately poor AI-generated samples can illustrate writing problems without becoming a method for detecting AI authorship.
 
 OPTIONAL CLAUDE SKILL UPLOAD
 ZIP:
