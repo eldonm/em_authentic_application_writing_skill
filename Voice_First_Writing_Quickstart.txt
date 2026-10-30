@@ -82,13 +82,13 @@ The coach should use natural, clear, complete sentences and familiar words. Its 
 
 A request for a more polished version does not authorize an AI rewrite. For stylistic or substantive changes, the coach should ask focused feedback questions only when feedback is permitted, and you should make the revision yourself. Any separately permitted mechanical correction must stay within that exact category and preserve your vocabulary, personality, rhythm, dialect, and meaning. The coach must not automatically remove your punctuation or repair your fragments to match its own style rules. Fictional rehearsal still allows questions and feedback only, with no replacement text.
 
-LOAD COACH PROTOCOL R4 IN CHATGPT OR CLAUDE
+LOAD COACH PROTOCOL R5 IN CHATGPT OR CLAUDE
 Full repository URL:
 https://github.com/eldonm/em_authentic_application_writing_skill
 Full portable prompt URL:
 https://raw.githubusercontent.com/eldonm/em_authentic_application_writing_skill/main/Voice_First_Writing_Coach_Paste_Prompt.txt
 
-1. Open the portable TXT on your computer or phone and check that its version says protocol R4.
+1. Open the portable TXT on your computer or phone and check that its version says protocol R5.
 2. Copy the complete file into a NEW chat. On desktop, select all and copy; on a phone, use text selection or save/open the TXT. Mobile interaction has not been tested here.
 3. Append this instruction, including when long text appears as an attachment:
 "Follow the complete pasted instructions as my writing coach in this chat. Begin naturally. Ask one question at a time, keep feedback to one focused question, leave the writing to me, and check the applicable rules before any real application coaching."
@@ -137,7 +137,12 @@ https://support.claude.com/en/articles/12512198-how-to-create-custom-skills
 LIMITS
 This coach does not guarantee rule compliance, admissions outcomes, privacy, or consistent model behavior. It is not a detector-avoidance tool. If a classroom exercise explicitly asks for AI-generated prose, follow that assignment's rules using a different, appropriate workflow; do not transfer that permission to applications.
 
-R4 EVALUATION AND FACILITATION
+R5 FIVE-STEP PROCESS
+Check the rules, gather your own material, draft independently, request one focused feedback question when permitted, then revise and verify. The coach supports the same process used in the presentation. A demonstration may use supplied synthetic drafts, clearly identified as teaching material; it does not establish real student authorship.
+
+R5 was exercised in an offline scripted instruction-following simulation through revision and final checking. It retained the question limit, authorship boundary and real-policy reset. A fresh ChatGPT browser test could not load its response, including after regeneration, so that test is blocked, not passed. Native Claude import and mobile operation remain untested.
+
+PRIOR R4 EVALUATION AND FACILITATION
 R4 establishes context once and keeps it in the background. It uses natural questions, skips known fields, and does not repeat a practice disclaimer. In a fresh direct-text test, it skipped an already supplied undergraduate subject and level, then completed the evidence, strength, inspiration and goal questions one at a time. It preserved the inventory, paused for independent drafting, gave one feedback question, resisted a request for five, refused a hook and rewrite, and stopped application content coaching when policy permission was unknown. It also rejected general reflection as a workaround.
 
 These bounded synthetic checks do not guarantee future behavior or institutional permission. R4 URL loading, native Claude import, mobile interaction, and real-policy mechanical editing remain untested. Direct text is the evaluated current route. If the assistant repeats context notices, asks needless questions, invents meaning, writes for you or bypasses policy checks, stop that pass and use the offline exercise or a permitted human adviser.

@@ -8,7 +8,9 @@ Coach protocol R5 helps the participant identify their own strength, evidence, i
 
 R5 aligns the coach with five stages: check rules, gather your material, draft independently, request focused feedback, and revise and verify. It supports a continuous facilitator-supplied teaching example without inventing the mock learner's facts or writing their essay. A supplied revision can be checked against the original feedback goal on request. Teaching drafts are explicitly synthetic materials, not evidence of student authorship.
 
-R5 evaluation is in progress. The results below describe the prior R4 evaluation until the R5 results are recorded.
+R5 was exercised in an offline instruction-following simulation using a supplied computing profile, draft and revision. It asked one question per turn, preserved the inventory, paused for independent drafting, gave one focused feedback question, checked the supplied revision against that same goal, refused a polished hook and reset to the real-policy gate on proposed application reuse. Participant turns and prose were prepared teaching materials; this is not evidence of independent student writing.
+
+A fresh ChatGPT browser conversation received the complete published R5 text, but its response could not load, including after one regeneration. That browser test is blocked, not passed. R4's earlier live results remain documented below. R5 native Claude import and mobile operation remain untested. These bounded checks do not establish perfection or universal reliability.
 
 ## Recommended setup: copy the full prompt into a new chat
 
@@ -32,7 +34,7 @@ This loads instructions for a conversation. It does not install a native ChatGPT
 
 ## Optional URL retrieval
 
-For testing assistants with browsing, replace “the complete pasted instructions” in the instruction above with “the complete file at” followed by the portable prompt URL. Explicitly request complete retrieval and stop if retrieval fails. The predecessor R3 URL test kept core question and policy limits but drifted in wording and flow. R4 URL retrieval has not been live-tested; use the direct-paste route for the current evaluated flow.
+For testing assistants with browsing, replace “the complete pasted instructions” in the instruction above with “the complete file at” followed by the portable prompt URL. Explicitly request complete retrieval and stop if retrieval fails. The predecessor R3 URL test kept core question and policy limits but drifted in wording and flow. R5 URL-only loading is untested; direct paste makes the complete instructions available but still depends on the assistant and service working correctly.
 
 Successful retrieval does not establish that an assistant will obey every rule. The URL route remains optional and less reliable in our tests. Direct paste is recommended for facilitated evaluation.
 
